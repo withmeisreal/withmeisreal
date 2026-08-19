@@ -1,15 +1,15 @@
 # About Me
 
 <p>
-  <kbd>HTML5</kbd>
-  <kbd>CSS3</kbd>
-  <kbd>JavaScript</kbd>
-  <kbd>Python</kbd>
-  <kbd>C++</kbd>
-  <kbd>C#</kbd>
-  <kbd>Git</kbd>
-  <kbd>GitHub</kbd>
-  <kbd>VS Code</kbd>
+  <span style="background:#e34c26;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">HTML5</span>
+  <span style="background:#2965f1;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">CSS3</span>
+  <span style="background:#f7df1e;color:black;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">JavaScript</span>
+  <span style="background:#3776AB;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">Python</span>
+  <span style="background:#00599C;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">C++</span>
+  <span style="background:#239120;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">C#</span>
+  <span style="background:#f05032;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">Git</span>
+  <span style="background:#181717;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">GitHub</span>
+  <span style="background:#007ACC;color:white;padding:6px 12px;border-radius:4px;font-weight:bold;font-size:12px;">VS Code</span>
 </p>
 
 ```text
