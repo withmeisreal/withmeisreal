@@ -1,8 +1,7 @@
 # About Me
 
 Currently studying the internal architecture and mechanisms of Windows.
-
-# Languages I’m Proficient In
+Languages I’m Proficient In
 -Python
 -C++
 
